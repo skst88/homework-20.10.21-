@@ -1,0 +1,53 @@
+{
+  "contactbook": [
+    {
+      "name": "Erlan",
+      "surname": "Karagulov",
+      "phone": "+996555657483",
+      "insta": "karagullov",
+      "id": 8
+    },
+    {
+      "name": "Diana",
+      "surname": "Jusubaliev",
+      "phone": "+996555098761",
+      "insta": "diinxx",
+      "id": 10
+    },
+    {
+      "name": "Omurbek ",
+      "surname": "Beknazar",
+      "phone": "+996555625243",
+      "insta": "",
+      "id": 11
+    },
+    {
+      "name": "Bael",
+      "surname": "Osorov",
+      "phone": "+996555098765",
+      "insta": "5bayel",
+      "id": 12
+    },
+    {
+      "name": "Aidar",
+      "surname": "Kazymbaev",
+      "phone": "+996555125678",
+      "insta": "kazymbaev.a",
+      "id": 13
+    },
+    {
+      "name": "Dayana",
+      "surname": "Dzhanuzakova",
+      "phone": "+996555313031",
+      "insta": "skst88",
+      "id": 14
+    },
+    {
+      "name": "Ibraim ",
+      "surname": "Almazbekov",
+      "phone": "+996557499800",
+      "insta": "ibraim_almazbekov",
+      "id": 15
+    }
+  ]
+}
