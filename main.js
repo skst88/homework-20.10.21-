@@ -12,7 +12,7 @@ let modal = $('.modal')
 //! Create
 async function addProduct() {
     let name = contactName.val();
-    let surname = contactSurname.val()
+    let surname = contactSurname.val()git
     let phone = contactPhone.val()
     let insta = contactInsta.val()
     let product = {
